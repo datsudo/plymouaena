@@ -1,6 +1,6 @@
 <div align="center">
     <h1>PLYMOUAENA</h1>
-    <img src="animation-0087.png" alt="liuaena logo">
+    <img src="animation/animation-0087.png" alt="uaena logo">
     <p>Plymouth theme with UAENA logo</p>
 </div>
 
