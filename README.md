@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>NAEUAENA</h1>
-    <img src="animation-0001.png" alt="liuaena logo">
-    <p>Plymouth theme with NAEUAENA logo</p>
+    <h1>PLYMOUAENA</h1>
+    <img src="animation-0087.png" alt="liuaena logo">
+    <p>Plymouth theme with UAENA logo</p>
 </div>
 
 ### Installation
@@ -9,8 +9,8 @@
 Clone and copy this repository to `/usr/share/plymouth/themes`
 
 ```bash
-$ git clone https://github.com/DatSudo/naeuaena
-$ sudo cp -r liuaena /usr/share/plymouth/themes
+$ git clone https://github.com/DatSudo/plymouaena
+$ sudo cp -r plymouaena /usr/share/plymouth/themes
 ```
 
 Check if the theme is successfully installed by listing all the themes
@@ -21,7 +21,7 @@ bgrt
 details
 fade-in
 glow
-naeuaena
+plymouaena
 script
 solar
 spinfinity
@@ -30,9 +30,9 @@ text
 tribar
 ```
 
-Set `naeuaena` as the default theme
+Set `plymouaena` as the default theme
 
 ```bash
-$ sudo plymouth-set-default-theme -R naeuaena
+$ sudo plymouth-set-default-theme -R plymouaena
 ```
 
