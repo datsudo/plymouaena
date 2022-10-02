@@ -1,13 +1,13 @@
 [Plymouth Theme]
-Name=naeuaena
-Description=display naeuaena logo
+Name=plymouaena
+Description=display uaena logo
 Comment=created By Datsudo
 ModuleName=two-step
 
 [two-step]
 Font=Cantarell 12
 TitleFont=Cantarell Light 30
-ImageDir=/usr/share/plymouth/themes/naeuaena
+ImageDir=/usr/share/plymouth/themes/plymouaena/animation
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.682
 TitleHorizontalAlignment=.5
