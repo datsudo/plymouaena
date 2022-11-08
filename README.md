@@ -13,7 +13,7 @@ Clone and copy this repository to `/usr/share/plymouth/themes`
 
 ```bash
 $ git clone https://github.com/DatSudo/plymouaena
-$ sudo cp -r plymouaena/uaena plymouth/celebrity -t /usr/share/plymouth/themes
+$ sudo cp -r plymouaena/uaena plymouaena/celebrity -t /usr/share/plymouth/themes
 ```
 
 Check if the theme is successfully installed by listing all the themes
